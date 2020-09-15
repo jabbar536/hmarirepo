@@ -1,1 +1,1 @@
-# hmarirepo
+# djangoproject
